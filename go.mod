@@ -6,7 +6,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/jensneuse/abstractlogger v0.0.4
 	github.com/wundergraph/graphql-go-tools/execution v1.0.3
-	github.com/wundergraph/graphql-go-tools/v2 v2.0.0-rc.60
+	github.com/wundergraph/graphql-go-tools/v2 v2.0.0-rc.66
 )
 
 require (

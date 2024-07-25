@@ -199,8 +199,8 @@ github.com/wundergraph/cosmo/router v0.0.0-20240527153944-f69e36f08478 h1:ewYpSp
 github.com/wundergraph/cosmo/router v0.0.0-20240527153944-f69e36f08478/go.mod h1:B3/v5mkwZs7pKvW1ulhO141WMk2OphtdtHWJ27TYgv4=
 github.com/wundergraph/graphql-go-tools/execution v1.0.3 h1:xXwVckKKTV5D8mB02HdldG50ovTr33k3qxRJ2J9vw0I=
 github.com/wundergraph/graphql-go-tools/execution v1.0.3/go.mod h1:LNymsPJ151MP4cjOSbl4Dx2fFE51JoFtFFF4yHcGrO8=
-github.com/wundergraph/graphql-go-tools/v2 v2.0.0-rc.60 h1:vuXUGYO1JyrzGrH1S3oAWgf+gisZMFxwhliFftbeZMI=
-github.com/wundergraph/graphql-go-tools/v2 v2.0.0-rc.60/go.mod h1:aukw9fSLqLLQz0tPe84ioUtcnnvdZ58ec9ByC6mz76c=
+github.com/wundergraph/graphql-go-tools/v2 v2.0.0-rc.66 h1:82Q13hifV6joW9cjAQmWylWP1JEB2/ceF8gBThczakw=
+github.com/wundergraph/graphql-go-tools/v2 v2.0.0-rc.66/go.mod h1:aukw9fSLqLLQz0tPe84ioUtcnnvdZ58ec9ByC6mz76c=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 go.uber.org/atomic v1.5.0/go.mod h1:sABNBOSYdrvTF6hTgEIbc7YasKWGhgEQZyfxyTvoXHQ=
 go.uber.org/atomic v1.11.0 h1:ZvwS0R+56ePWxUNi+Atn9dWONBPp/AUETXlHW0DxSjE=
